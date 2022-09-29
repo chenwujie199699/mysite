@@ -1,5 +1,5 @@
 # mysite
-git和github演示羡慕
+git和github演示
 
 
 # 说明
